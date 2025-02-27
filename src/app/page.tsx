@@ -43,7 +43,7 @@ export default function Home() {
         <p className="text-xl">Along my path, I’ve earned multiple certifications, including Salesforce Certified Administrator, Platform Developer I, and JavaScript Developer I, as well as the MuleSoft Certified Developer and Professional Scrum Master credentials. My commitment to growth is also reflected in programs like Aspiring People Leaders and emotional intelligence training.</p>
         <p className="text-xl">Recognition for my contributions has included the SE Innovator of the Year Award (2017, 2018), the Shared Services Teamwork Award (2020), and several others that highlight innovation, teamwork, and excellence.</p>
         <p className="text-xl">From designing efficient systems to mentoring and empowering others, my passion lies in driving results and fostering growth across teams.</p>
-        <p className="text-xl">Outside of programming, my wife of { yearsMarried } years are trying to survive with our two boys Odin { odinAge } and Atlas { atlasAge }. In my free time I enjoy learning new things, reading, painting, Legos, Dungeons and Dragons, and video games.</p>
+        <p className="text-xl">Outside of programming, I have my lovely wife of { yearsMarried } years and our two boys Odin { odinAge } and Atlas { atlasAge }. In my free time I enjoy learning new things, reading, painting, Legos, Dungeons and Dragons, and video games.</p>
       </main>
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
         <a
